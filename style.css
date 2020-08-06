@@ -35,3 +35,31 @@
     font-style: italic
   
 }
+
+
+@media(max-width:768px) {
+    .calculator{
+        width: 75%;
+        margin: 5%;
+     
+     
+
+    }
+    .calculator input{
+    
+        
+    
+    }
+    
+    .calculator button{
+height: 5rem;
+width: 2 rem;
+        
+    
+    }
+    
+    .calculator button:hover{
+
+      
+    }
+}
