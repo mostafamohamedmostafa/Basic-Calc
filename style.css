@@ -6,6 +6,9 @@
     background-color: black;
 }
 
+body{
+    background-color: black !important;
+}
 
 #clock {
     color: white;
@@ -13,6 +16,7 @@
     text-align: center;
     font-style: italic;
     font-size: 4rem;
+    background-color: black !important;
 }
 
 
@@ -57,16 +61,18 @@
 
 @media(max-width:768px) {
     #clock {
-        height: 9vh;
+        height: 5vh;
         text-align: center;
         font-style: italic;
         font-size: 2rem;
+        padding-bottom: 5%;
     }
 
 
     .calculator {
         width: 75%;
-        margin: 5%;
+        margin:1% 5%;
+        margin-top: 5%;
 
 
 
