@@ -8,8 +8,11 @@
 
 .calculator{
     width: 75%;
-    border: yellow 3px solid;
+    border: yellow 3px  solid;
     margin: 5%;
+    -webkit-box-shadow: 10px 10px 28px -12px rgba(252,53,252,1);
+    -moz-box-shadow: 10px 10px 28px -12px rgba(252,53,252,1);
+    box-shadow: 10px 10px 28px -12px rgba(252,53,252,1);
 }
 .calculator input{
     width: 100%;
