@@ -35,22 +35,6 @@ setInterval(showTime,1000);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const btns = document.querySelectorAll('.btn');
 const screen = document.querySelector('.screen');
 const equalBtn = document.querySelector('.btn-equal');
