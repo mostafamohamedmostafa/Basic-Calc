@@ -27,6 +27,7 @@
     margin: 3%;
     width: 80%;
     font-weight: 700;
+    padding: 2%;
 
 }
 
@@ -55,6 +56,8 @@
     .calculator button{
 height: 5rem;
 width: 2 rem;
+padding: 5%;
+margin: 5%;
         
     
     }
