@@ -48,7 +48,7 @@ body{
 }
 
 .calculator button:hover {
-    border: violet 3px solid;
+    border: violet 1px solid;
     color: yellow;
     font-style: italic
 }
